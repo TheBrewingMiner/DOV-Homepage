@@ -38,4 +38,6 @@ FABRIC:   https://github.com/TheBrewingMiner/Dynamic-Ore-Veins-Fabric
 
 NEOFORGE: https://github.com/TheBrewingMiner/Dynamic-Ore-Veins-NeoForge
 
-## Documentation: (Coming soon)
+## Documentation
+You can find documentation for developing datapacks with this mod here:
+https://github.com/TheBrewingMiner/DOV-Homepage/wiki
