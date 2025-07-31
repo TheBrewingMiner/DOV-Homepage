@@ -40,4 +40,4 @@ NEOFORGE: https://github.com/TheBrewingMiner/Dynamic-Ore-Veins-NeoForge
 
 ## Documentation
 You can find documentation for developing datapacks with this mod here:
-https://github.com/TheBrewingMiner/DOV-Homepage/wiki
+[Wiki](https://github.com/TheBrewingMiner/DOV-Homepage/wiki)
