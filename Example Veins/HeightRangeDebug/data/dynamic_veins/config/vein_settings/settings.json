@@ -1,0 +1,9 @@
+{
+  "vanilla_veins_enabled": true,
+  "vanilla_priority": false,
+  "shuffle_source": "dynamic_veins:shuffle_source",
+  "debug": {
+    "height_range": true,
+    "vein_success": false
+  }
+}

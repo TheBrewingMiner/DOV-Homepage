@@ -1,0 +1,27 @@
+{
+  "ore": "minecraft:iron_ore",
+  "secondary_ore": "minecraft:deepslate_iron_ore",
+  "secondary_ore_chance": 0.1,
+  "filler_block": "minecraft:stone",
+  "vein_toggle": {
+    "input": "minecraft:overworld/continents",
+    "min_threshold": -1.0,
+    "max_threshold": 1.0
+  },
+  "vein_settings": {
+    "max_richness_threshold": 0.5,
+    "min_ore_richness": 0.3,
+    "max_ore_richness": 0.8,
+    "max_edge_roundoff": 0.2
+  },
+  "dimension": "minecraft:overworld",
+  "conditions": {
+    "type": "dynamic_veins:height_range",
+    "min_inclusive": {
+      "above_bottom": 4
+    },
+    "max_inclusive": {
+      "below_top": 4
+    }
+  }
+}

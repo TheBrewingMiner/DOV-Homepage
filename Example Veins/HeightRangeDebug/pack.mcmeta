@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Overwrites to debug height ranges.",
+        "pack_format": 10
+    }
+}

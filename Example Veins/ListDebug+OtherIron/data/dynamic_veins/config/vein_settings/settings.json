@@ -1,0 +1,8 @@
+{
+  "vanilla_veins_enabled": false,
+  "vanilla_priority": false,
+  "shuffle_source": "dynamic_veins:shuffle_source",
+  "debug": {
+    "shuffled_list": true
+  }
+}
