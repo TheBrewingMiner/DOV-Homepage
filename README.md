@@ -1,7 +1,7 @@
 # Dynamic Ore Veins
 Homepage for the Minecraft mod "Dynamic Ore Veins."
 
-<img width="512" height="512" alt="DOV Logo" src="https://github.com/user-attachments/assets/f4154471-da73-4db4-ad11-fdc5d886ce00" />
+<img width="256" height="256" alt="DOV Logo" src="https://github.com/user-attachments/assets/f4154471-da73-4db4-ad11-fdc5d886ce00" />
 
 Dynamic Ore Veins is an API that exposes Minecraft's large ore vein generation via datapacks, with some extra features!
 
